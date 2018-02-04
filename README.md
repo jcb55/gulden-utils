@@ -3,6 +3,7 @@ Utilities and files related to the gulden cryptocurrency
 
 ## gulden-1.6.4.10.deb  
 
+md5sum 2bfa58832b660b5f4188391fcfe7601d  gulden-1.6.4.10.deb
 AMD64 (x86_64) Debian stretch version of Gulden including the qt gui wallet
 
 installed in /opt/gulden/gulden/
