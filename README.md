@@ -19,8 +19,8 @@ apt-get install libboost-dev libboost-filesystem-dev libboost-system-dev program
 g-dash guldenstart.sh wrapper which attempts to restart if GuldenD crashes
 
 
-## John Belshaw
+## J Belshaw
 
-If you need help with this I can be found on guldencom.slack.com, and if you appreaciate this you can send NLG donations to :
+If you need help with this I can be found on guldencom.slack.com, and if you appreaciate this you can send NLG donations to:
 GKKsMecU1QeQkFrNdziCSKcx6foCrK9q9K
 
