@@ -39,6 +39,6 @@ g-dash guldenstart.sh wrapper which attempts to restart if GuldenD crashes
 
 ## J Belshaw
 
-If you need help with this I can be found on guldencom.slack.com, and if you appreaciate this you can send NLG donations to:
+If you need help with this I can be found on guldencom.slack.com, and if you appreciate this you can send NLG donations to:
 GKKsMecU1QeQkFrNdziCSKcx6foCrK9q9K
 
