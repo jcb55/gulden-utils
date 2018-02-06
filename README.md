@@ -22,10 +22,11 @@ installed in /opt/gulden/gulden/
 and the boost libraries in  /opt/gulden/lib
 
 need to set env variable
+```
 LD_LIBRARY_PATH=/opt/gulden/lib/boost/lib
 QT_XKB_CONFIG_ROOT=/usr/lib/kbd/keymaps/xkb
 
-```prerequisites -
+prerequisites -
 yum install http://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
 yum install miniupnpc qt5-qtwebkit qt5-qtwebkit qt5-qttools openssl qrencode libevent libprotobuf 
 
