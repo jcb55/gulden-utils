@@ -33,6 +33,28 @@ yum install miniupnpc qt5-qtwebkit qt5-qtwebkit qt5-qttools openssl qrencode lib
 ```
 
 
+## gulden-2.0.0.0.1-centos7-x86_64.bz2
+
+gulden-2.0.0.0.1-centos7-x86_64.bz2 md5sum c14c799be1d7459ecdc39696afcdd0f5 
+
+tarball of gulden-2.0.0.1 compiled for centos/rhel7
+
+Instructions -
+
+cd /opt 
+tar xvfj gulden-2.0.0.0.1-centos7-x86_64.bz2
+
+All the files are extracted into the directory gulden 
+create a directory gulden/datadir; chown <user> gulden/datadir
+
+export QT_XKB_CONFIG_ROOT=/usr/lib/kbd/keymaps/xkb
+export LD_LIBRARY_PATH=/opt/gulden/boost/lib:/opt/gulden/qwt-6.1.3/lib/
+
+the qt gui is /opt/gulden/bin/Gulden
+there are also GuldenD, Gulden-cli and Gulden-tx
+
+
+
 ## guldenWrapper.sh
 
 g-dash guldenstart.sh wrapper which attempts to restart if GuldenD crashes
