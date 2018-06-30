@@ -48,7 +48,7 @@ tar xvfj gulden-2.0.0.0.1-centos7-x86_64.bz2
 ```
 
 All the files are extracted into the directory gulden 
-create a directory gulden/datadir; chown <user> gulden/datadir
+create a directory gulden/datadir; chown *user* gulden/datadir
 
 ```
 export QT_XKB_CONFIG_ROOT=/usr/lib/kbd/keymaps/xkb
