@@ -42,6 +42,10 @@ tarball of gulden-2.0.0.1 compiled for centos/rhel7
 Instructions -
 
 ```
+prerequisites -
+yum install http://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
+yum install miniupnpc qt5-qttools openssl qrencode libevent libprotobuf protobuf-lite libevent qt5-qtbase qt5-qtwebkit qt5-qtdeclarative qt5-qtsvg  bzip2 libxcb
+
 cd /opt 
 tar xvfj gulden-2.0.0.0.1-centos7-x86_64.bz2
 
