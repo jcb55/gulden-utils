@@ -35,7 +35,7 @@ yum install miniupnpc qt5-qtwebkit qt5-qtwebkit qt5-qttools openssl qrencode lib
 
 ## gulden-2.0.0.0.1-centos7-x86_64.bz2
 
-gulden-2.0.0.0.1-centos7-x86_64.bz2 md5sum c14c799be1d7459ecdc39696afcdd0f5 
+gulden-2.0.0.0.1-centos7-x86_64.bz2 md5sum ba84f39684d2c2a9b6101c7cd2a34224
 
 tarball of gulden-2.0.0.1 compiled for centos/rhel7
 
