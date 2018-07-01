@@ -28,7 +28,7 @@ QT_XKB_CONFIG_ROOT=/usr/lib/kbd/keymaps/xkb
 
 prerequisites -
 yum install http://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
-yum install miniupnpc qt5-qtwebkit qt5-qtwebkit qt5-qttools openssl qrencode libevent libprotobuf 
+yum install miniupnpc qt5-qttools openssl qrencode libevent libprotobuf protobuf-lite libevent qt5-qtbase qt5-qtwebkit qt5-qtdeclarative qt5-qtsvg  bzip2 libxcb
 
 ```
 
